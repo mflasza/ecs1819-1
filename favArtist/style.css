@@ -1,0 +1,39 @@
+h3{
+    text-align: center;color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+p {
+    text-align: center;
+}
+p {
+  font-family: cursive;
+}
+p {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+body{
+    background-color: lightblue;
+}
+img {
+    width: 500px; height: 500px;
+}
+img{
+    border-style: solid; border-color: #91274F;
+}
+img{
+    padding: 25px; margin: 70px;
+}
+img {
+  border-radius: 50%;
+}
+table {
+  width: 100%;
+}
+table {
+    text-align: center
+}
+table, th, td {
+  border: 1px solid black;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
